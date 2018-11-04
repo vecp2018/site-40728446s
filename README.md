@@ -1,2 +1,2 @@
 # 2018fall
-https://github.com/vecp2018/site-40728446s
+https://vecp2018.github.io/site-40728446s/
